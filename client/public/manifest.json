@@ -1,0 +1,29 @@
+{
+  "name": "Mabel Construction - Quality You Deserve, Prices You Can Afford",
+  "short_name": "Mabel Construction",
+  "description": "Premium construction services in the Twin Cities. From custom homes to commercial projects, we build your vision with precision and style.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["construction", "business", "home improvement"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}

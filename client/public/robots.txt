@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://buildwithmabel.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Allow important pages
+Allow: /
+Allow: /about
+Allow: /services
+Allow: /projects
+Allow: /blog
+Allow: /contact
+Allow: /locations
+Allow: /services/roofing
+Allow: /services/remodeling
+Allow: /services/commercial
+Allow: /services/siding
+Allow: /services/windows
+Allow: /minneapolis
